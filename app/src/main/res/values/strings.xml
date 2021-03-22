@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Activity3</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">Sign-In</string>
+    <string name="tLogin">LOGIN</string>
+    <string name="tData">Data Anda</string>
+    <string name="txemail">Ini hasil Email</string>
+    <string name="txPassword">Ini hasil Password</string>
+    <string name="label2">Login Berhasil</string>
+
+    <string name="title_activity_hasil">ActivityHasil</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
